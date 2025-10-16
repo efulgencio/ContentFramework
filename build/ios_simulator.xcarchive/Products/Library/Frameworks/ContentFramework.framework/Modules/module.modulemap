@@ -1,0 +1,6 @@
+framework module ContentFramework {
+  umbrella header "ContentFramework.h"
+  export *
+
+  module * { export * }
+}
